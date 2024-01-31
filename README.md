@@ -1,6 +1,8 @@
 # CS0-cswhite2
+
+| Name | Value |
 | Carson White |
-| :--- | :---|
+| :--- |:---|
 |**Course** | CSCI110L - CS1 : Begining Programming Lab Python |
 |**Section** | 1 |
 |**Semester** | Spring 2024 |
