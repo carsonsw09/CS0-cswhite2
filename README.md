@@ -1,12 +1,12 @@
 # CS0-cswhite2
 | Carson White |
-|------------ |
-|**Course** | | CSCI110L - CS1 : Begining Programming Lab Python |
-|**Section** | | 1 |
-|**Semester** | | Spring 2024 |
-|**Mav Username** | | cswhite2 |
-|**Github Username** | |   carsonsw09 |
-|**Repository**| | https://github.com/carsonsw09/CS0-cswhite2 |
+| :--- | :---|
+|**Course** | CSCI110L - CS1 : Begining Programming Lab Python |
+|**Section** | 1 |
+|**Semester** | Spring 2024 |
+|**Mav Username** | cswhite2 |
+|**Github Username** |  carsonsw09 |
+|**Repository**| https://github.com/carsonsw09/CS0-cswhite2 |
 
 
 ## Lab Assignments
