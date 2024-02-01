@@ -17,13 +17,13 @@
 ### Lab1
 | Name | Value |
 |:--- | :--- |
-| Name | | STDI ART |
-| Description | | This assignment is based around a begning art program with input and output assignments |
-| Due Date | | 2/6/2024 |
-| Status | | Complete |
-| Location | https://github.com/carsonsw09/CS0-cswhite2/tree/main/LabAssignments |
-| Self Grade | | 100/100 |
-| Notes | | Program runs effectively and all the art is in there and lined up proportionally |
+| Name | STDI ART |
+| Description | This assignment is based around a begning art program with input and output assignments |
+| Due Date | 2/6/2024 |
+| Status | Complete |
+| Location https://github.com/carsonsw09/CS0-cswhite2/tree/main/LabAssignments |
+| Self Grade | 100/100 |
+| Notes| Program runs effectively and all the art is in there and lined up proportionally |
 
 ### Lab2
 
