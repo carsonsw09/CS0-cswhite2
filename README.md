@@ -15,6 +15,7 @@
 
 ## Lab Assignments
 ### Lab1
+| Name | Value |
 |:--- | :--- |
 | Name | | STDI ART |
 | Description | | This assignment is based around a begning art program with input and output assignments |
@@ -34,7 +35,7 @@
 | Self Grade | | |
 | Notes | | |
 
-## Lab3
+### Lab3
 
 | Name | | Carson White |
 | Description | | |
@@ -44,7 +45,7 @@
 | Self Grade | | |
 | Notes | | |
 
-## Lab4
+### Lab4
 
 | Name | | Carson White |
 | Description | | |
@@ -54,7 +55,7 @@
 | Self Grade |
 | Notes |
 
-## Lab5
+### Lab5
 
 | Name | | Carson White |
 | Description |
@@ -84,7 +85,7 @@
 | Self Grade |
 | Notes |
 
-## Lab8 
+### Lab8 
 
 | Name | | Carson White |
 | Description |
@@ -94,7 +95,7 @@
 | Self Grade |
 | Notes |
 
-## Lab9 
+### Lab9 
 
 | Name | | Carson White |
 | Description |
@@ -114,7 +115,7 @@
 | Self Grade |
 | Notes |
 
-## Lab11
+### Lab11
 
 | Name | | Carson White |
 | Description |
@@ -124,7 +125,7 @@
 | Self Grade |
 | Notes |
 
-## Lab12
+### Lab12
 
 | Name | | Carson White |
 | Description |
