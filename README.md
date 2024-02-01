@@ -38,6 +38,8 @@
 
 ### Lab3
 
+| Name | Value |
+|:--- |:--- |
 | Name |
 | Description |
 | Due Date | 
@@ -48,6 +50,8 @@
 
 ### Lab4
 
+| Name | Value |
+|:--- |:--- |
 | Name |
 | Description |
 | Due Date | 
@@ -58,6 +62,8 @@
 
 ### Lab5
 
+| Name | Value |
+|:--- |:--- |
 | Name | 
 | Description |
 | Due Date |
@@ -68,6 +74,8 @@
 
 ## Lab6
 
+| Name | Value |
+|:--- |:--- |
 | Name |
 | Description |
 | Due Date |
@@ -78,6 +86,8 @@
 
 ## Lab7
 
+| Name | Value |
+|:--- |:--- |
 | Name | 
 | Description |
 | Due Date |
@@ -88,6 +98,8 @@
 
 ### Lab8 
 
+| Name | Value |
+|:--- |:--- |
 | Name | 
 | Description |
 | Due Date |
@@ -98,6 +110,8 @@
 
 ### Lab9 
 
+| Name | Value |
+|:--- |:--- |
 | Name | 
 | Description |
 | Due Date |
@@ -108,6 +122,8 @@
 
 ## Lab10
 
+| Name | Value |
+|:--- |:--- |
 | Name | 
 | Description |
 | Due Date |
@@ -118,6 +134,8 @@
 
 ### Lab11
 
+| Name | Value |
+|:--- |:--- |
 | Name | 
 | Description |
 | Due Date |
@@ -128,6 +146,8 @@
 
 ### Lab12
 
+| Name | Value |
+|:--- |:--- |
 | Name |
 | Description |
 | Due Date |
