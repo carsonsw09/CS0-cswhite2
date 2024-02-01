@@ -39,7 +39,7 @@ print(line1)
 secondline = " / @ @ \  *        ASCII Lab    *    (='.'=)"
 print(secondline)
 
-thirdline = "( > 0 < ) *       <"+ name + ">      *  ( \" )( \" )"
+thirdline = "( > 0 < ) *       <"+ name + ">      *  ( \" )_( \" )"
 print(thirdline)                                                                  
 # FIXME8: print the third line of the graphics fixed
 fourthline = "  >>x<<   *     <" + semester + year +">    *"

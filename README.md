@@ -26,111 +26,112 @@
 | Notes| Program runs effectively and all the art is in there and lined up proportionally |
 
 ### Lab2
-
-| Name | | Carson White |
-| Description | | |
-| Due Date | | |
-| Status | | unfinished |
-| Location | | |
-| Self Grade | | |
-| Notes | | |
+| Name | Value |
+|:--- |:--- |
+| Name |  
+| Description |
+| Due Date | 
+| Status | unfinished |
+| Location | 
+| Self Grade | 
+| Notes | 
 
 ### Lab3
 
-| Name | | Carson White |
-| Description | | |
-| Due Date | | |
-| Status | | Unfinished |
-| Location | | |
-| Self Grade | | |
-| Notes | | |
+| Name |
+| Description |
+| Due Date | 
+| Status | Unfinished |
+| Location | 
+| Self Grade | 
+| Notes | 
 
 ### Lab4
 
-| Name | | Carson White |
-| Description | | |
-| Due Date | | |
-|Status | | Unfinished |
+| Name |
+| Description |
+| Due Date | 
+|Status | Unfinished |
 | Location |
 | Self Grade |
 | Notes |
 
 ### Lab5
 
-| Name | | Carson White |
+| Name | 
 | Description |
 | Due Date |
-| Status | | Unfinished |
+| Status | Unfinished |
 | Location |
 | Self Grade |
 | Notes |
 
 ## Lab6
 
-| Name | | Carson White |
+| Name |
 | Description |
 | Due Date |
-| Status | | Unfinsihed |
+| Status | Unfinsihed |
 | Location | 
 | Self Grade |
 | Notes |
 
 ## Lab7
 
-| Name | | Carson White |
+| Name | 
 | Description |
 | Due Date |
-| Status | | Unfinsihed |
+| Status | Unfinsihed |
 | Location | 
 | Self Grade |
 | Notes |
 
 ### Lab8 
 
-| Name | | Carson White |
+| Name | 
 | Description |
 | Due Date |
-| Status | | Unfinsihed |
+| Status | Unfinsihed |
 | Location | 
 | Self Grade |
 | Notes |
 
 ### Lab9 
 
-| Name | | Carson White |
+| Name | 
 | Description |
 | Due Date |
-| Status | | Unfinsihed |
+| Status | Unfinsihed |
 | Location | 
 | Self Grade |
 | Notes |
 
 ## Lab10
 
-| Name | | Carson White |
+| Name | 
 | Description |
 | Due Date |
-| Status | | Unfinsihed |
+| Status | Unfinsihed |
 | Location | 
 | Self Grade |
 | Notes |
 
 ### Lab11
 
-| Name | | Carson White |
+| Name | 
 | Description |
 | Due Date |
-| Status | | Unfinsihed |
+| Status | Unfinsihed |
 | Location | 
 | Self Grade |
 | Notes |
 
 ### Lab12
 
-| Name | | Carson White |
+| Name |
 | Description |
 | Due Date |
-| Status | | Unfinsihed |
+| Status | Unfinsihed |
 | Location | 
 | Self Grade |
 | Notes |
