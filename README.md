@@ -72,7 +72,7 @@
 | Self Grade |
 | Notes |
 
-## Lab6
+### Lab6
 
 | Name | Value |
 |:--- |:--- |
@@ -84,7 +84,7 @@
 | Self Grade |
 | Notes |
 
-## Lab7
+### Lab7
 
 | Name | Value |
 |:--- |:--- |
@@ -120,7 +120,7 @@
 | Self Grade |
 | Notes |
 
-## Lab10
+### Lab10
 
 | Name | Value |
 |:--- |:--- |
