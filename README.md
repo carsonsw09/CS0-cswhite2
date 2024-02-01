@@ -1,8 +1,10 @@
 # CS0-cswhite2
 
+## Carson White Python Fundamentals Lab Readme
+
 | Name | Value |
-| Carson White |
-| :--- |:---|
+|:---|:---|
+|**Name** | Carson White |
 |**Course** | CSCI110L - CS1 : Begining Programming Lab Python |
 |**Section** | 1 |
 |**Semester** | Spring 2024 |
@@ -13,8 +15,8 @@
 
 ## Lab Assignments
 ### Lab1
-
-| Name | | Carson White |
+|:--- | :--- |
+| Name | | STDI ART |
 | Description | | This assignment is based around a begning art program with input and output assignments |
 | Due Date | | 2/6/2024 |
 | Status | | Complete |
