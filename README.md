@@ -28,13 +28,13 @@
 ### Lab2
 | Name | Value |
 |:--- |:--- |
-| Name |  
-| Description |
-| Due Date | 
-| Status | unfinished |
-| Location | 
-| Self Grade | 
-| Notes | 
+| Name | Add Two Numbers|  
+| Description | A simple program based around adding two numbers together |
+| Due Date | 2/15/24 |
+| Status | Finished |
+| Location |https://github.com/carsonsw09/CS0-cswhite2/tree/main/LabAssignments/Math |
+| Self Grade | 100/100 |
+| Notes | Solved the problem thouroughly and have the kattis submission image in the folder as well |
 
 ### Lab3
 
