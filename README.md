@@ -25,7 +25,7 @@
 | Self Grade | 100/100 |
 | Notes| Program runs effectively and all the art is in there and lined up proportionally |
 
-### Lab2
+### Lab2 Part 1
 | Name | Value |
 |:--- |:--- |
 | Name | Add Two Numbers|  
@@ -35,6 +35,18 @@
 | Location |https://github.com/carsonsw09/CS0-cswhite2/tree/main/LabAssignments/Math |
 | Self Grade | 100/100 |
 | Notes | Solved the problem thouroughly and have the kattis submission image in the folder as well |
+
+### Lab2 Part 2
+| Name | Value|
+|:--- |:--- |
+| Name | Circle |
+| Description | This program takes in the radius of the circle and then displays the area and circumfrence of the circle |
+| Due Date | 2/15/24 |
+| Status | Finished |
+| Location | https://github.com/carsonsw09/CS0-cswhite2/tree/main/LabAssignments/Math/Circle |
+| Self Grade | 100/100 |
+| Notes | Everything works and the code follows the logic provided |
+
 
 ### Lab3
 
