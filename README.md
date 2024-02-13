@@ -52,13 +52,13 @@
 
 | Name | Value |
 |:--- |:--- |
-| Name |
-| Description |
-| Due Date | 
-| Status | Unfinished |
-| Location | 
-| Self Grade | 
-| Notes | 
+| Name | Functions |
+| Description | This program teaches the uses of basic python functions |
+| Due Date | 2/20/24 |
+| Status | Finished |
+| Location | https://github.com/carsonsw09/CS0-cswhite2/tree/main/LabAssignments/Functions |
+| Self Grade | 100/100 |
+| Notes | The program works well and all the fixme's are completed. The program is saved under the functions tab |
 
 ### Lab4
 
