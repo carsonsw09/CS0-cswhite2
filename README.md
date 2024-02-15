@@ -60,6 +60,16 @@
 | Self Grade | 100/100 |
 | Notes | The program works well and all the fixme's are completed. The program is saved under the functions tab |
 
+| Name | Value |
+| :--- | :--- |
+| Name | bijele |
+| Description | This program works on functions and how to define them and call them |
+| Due Date | 2/22/24 |
+| Status | Finished |
+| Location | https://github.com/carsonsw09/CS0-cswhite2/blob/main/LabAssignments/Functions/bijele.py |
+| Self Grade | 100/100 |
+| Notes | The program works well and all the fixme's are completed. The kattis picture is in the file as well |
+
 ### Lab4
 
 | Name | Value |
