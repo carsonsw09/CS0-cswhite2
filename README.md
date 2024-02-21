@@ -74,13 +74,13 @@
 
 | Name | Value |
 |:--- |:--- |
-| Name |
-| Description |
-| Due Date | 
-|Status | Unfinished |
-| Location |
-| Self Grade |
-| Notes |
+| Name | Conditionals |
+| Description | A lab based on conditional statements and functions |
+| Due Date | 2/27/24 |
+|Status | Finished |
+| Location | https://github.com/carsonsw09/CS0-cswhite2/tree/main/LabAssignments/Conditionals |
+| Self Grade | 100/100 |
+| Notes | All the fixme's are completed and the code runs efficently and effectively |
 
 ### Lab5
 
