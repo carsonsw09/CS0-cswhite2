@@ -86,26 +86,35 @@
 
 | Name | Value |
 |:--- |:--- |
-| Name | 
-| Description |
-| Due Date |
-| Status | Unfinished |
-| Location |
-| Self Grade |
-| Notes |
+| Name | String Lab Part 1 |
+| Description | String lab based off determing if a string contained certain characters |
+| Due Date | 3/12/24
+| Status | Finished |
+| Location | https://github.com/carsonsw09/CS0-cswhite2/blob/main/LabAssignments/Strings2/stringlab.py |
+| Self Grade | 100/100 |
+| Notes | All the fix-me's are completed and the code runs great |
 
 ### Lab6
 
 | Name | Value |
 |:--- |:--- |
-| Name |
-| Description |
-| Due Date |
-| Status | Unfinsihed |
+| Name | String Lab Part 2 |
+| Description | String lab based off the kattis problem, Hissing Microphone |
+| Due Date | 3/12/24 |
+| Status | Finished |
+| Location | https://github.com/carsonsw09/CS0-cswhite2/blob/main/LabAssignments/Strings2/hissingmicrophone.py
+| Self Grade | 100/100 |
+| Notes | All the fix-me's are completed and the code runs well. There are code run pictures |
+
+| Name | Value | 
+| :--- | :--- |
+| Name | String Lab Extra Credit |
+| Description | Extra credit problem based off the string problems listed above |
+| Due Date | 3/12/24 |
+| Status | Unfinished |
 | Location | 
 | Self Grade |
 | Notes |
-
 ### Lab7
 
 | Name | Value |
