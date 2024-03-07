@@ -59,7 +59,7 @@ def read_int_data() -> int:
     """
     # FIXED 3: using input read and store the data into data variable
     data = input()
-    # FIXME 4: convert the data into an int and return it
+    # FIXED 4: convert the data into an int and return it
     return int(data)
 
 def answer(num: int) -> str:
