@@ -94,7 +94,6 @@
 | Self Grade | 100/100 |
 | Notes | All the fix-me's are completed and the code runs great |
 
-### Lab6
 
 | Name | Value |
 |:--- |:--- |
@@ -106,6 +105,7 @@
 | Self Grade | 100/100 |
 | Notes | All the fix-me's are completed and the code runs well. There are code run pictures |
 
+
 | Name | Value | 
 | :--- | :--- |
 | Name | String Lab Extra Credit |
@@ -115,7 +115,8 @@
 | Location | 
 | Self Grade |
 | Notes |
-### Lab7
+
+### Lab6
 
 | Name | Value |
 |:--- |:--- |
