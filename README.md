@@ -111,10 +111,10 @@
 | Name | String Lab Extra Credit |
 | Description | Extra credit problem based off the string problems listed above |
 | Due Date | 3/12/24 |
-| Status | Unfinished |
-| Location | 
-| Self Grade |
-| Notes |
+| Status | Finished |
+| Location | https://github.com/carsonsw09/CS0-cswhite2/tree/main/LabAssignments/Strings2 |
+| Self Grade | 100/100 |
+| Notes | All the fix-me's are completed and the program correctly determines if the entry is a palindrome or not |
 
 ### Lab6
 
