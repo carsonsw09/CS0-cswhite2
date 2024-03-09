@@ -53,8 +53,22 @@ def isPalindrome(phrase):
     # 3. if a single pair do NOT match, phrase is not palindrome, return False
     # 4. else, continue to compare all the corresponding characters and if they all match,
     #       return True
-    # FIXME3: Convert the above algorithm to Python code (60 points)
-    return True
+    # FIXME3-Fixed: Convert the above algorithm to Python code (60 points)
+   
+    new_phrase = ''.join(char.lower() for char in phrase if char.isalpha())
+    
+    length = len(new_phrase)
+    
+    for i in range(length // 2):
+         
+         if new_phrase[i] != new_phrase[length - i - 1]:
+             
+             return False
+         else:
+             return True
+    
+    
+    
 
 def test():
     print('running test cases...')
