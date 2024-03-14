@@ -120,13 +120,13 @@
 
 | Name | Value |
 |:--- |:--- |
-| Name | 
-| Description |
-| Due Date |
-| Status | Unfinsihed |
-| Location | 
-| Self Grade |
-| Notes |
+| Name | Pet.py |
+| Description | This program is centered around a list kattis problem that implements checking a position and converting between ints and strings with lists |
+| Due Date | 3/18/24 |
+| Status | Finished |
+| Location | https://github.com/carsonsw09/CS0-cswhite2/tree/main/LabAssignments/Lists |
+| Self Grade | 100/100 |
+| Notes | All the fix-me's are completed, photo evidence of kattis and code run are in there as well as an additional test function to test the answer function |
 
 ### Lab8 
 
