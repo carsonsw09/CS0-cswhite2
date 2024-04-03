@@ -128,19 +128,19 @@
 | Self Grade | 100/100 |
 | Notes | All the fix-me's are completed, photo evidence of kattis and code run are in there as well as an additional test function to test the answer function |
 
-### Lab8 
+### Lab7 
 
 | Name | Value |
 |:--- |:--- |
-| Name | 
-| Description |
-| Due Date |
-| Status | Unfinsihed |
-| Location | 
-| Self Grade |
-| Notes |
+| Name | Dict.py |
+| Description | This program is centered around utilizing a dictonary structure to take in input and produce a certain output |
+| Due Date | 4/2/24 |
+| Status | Finished |
+| Location | https://github.com/carsonsw09/CS0-cswhite2/tree/main/LabAssignments/Dict |
+| Self Grade | 100/100 |
+| Notes | All the fix-me's are completed and photo evidence of the code running is in the folder as well |
 
-### Lab9 
+### Lab8 
 
 | Name | Value |
 |:--- |:--- |
