@@ -144,15 +144,15 @@
 
 | Name | Value |
 |:--- |:--- |
-| Name | 
-| Description |
-| Due Date |
-| Status | Unfinsihed |
-| Location | 
-| Self Grade |
-| Notes |
+| Name | Fileio.py |
+| Description | This program is centered around devloping a file reading system with functions performing on the integer data list |
+| Due Date | 4/9/24 |
+| Status | Finished |
+| Location | https://github.com/carsonsw09/CS0-cswhite2/tree/main/LabAssignments/Fileio |
+| Self Grade | 100/100 |
+| Notes | All the fix-me's are completed and the output file contains the correct output |
 
-### Lab10
+### Lab9
 
 | Name | Value |
 |:--- |:--- |
@@ -164,7 +164,7 @@
 | Self Grade |
 | Notes |
 
-### Lab11
+### Lab10
 
 | Name | Value |
 |:--- |:--- |
