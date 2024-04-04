@@ -3,7 +3,7 @@ File I/O Lab
 By: Carson White
 
 CSCI 110
-Date: 4/224
+Date: 4/2/24
 
 Program prompts user to enter name of the file that contains 10 integers.
 It opens, reads and stores the numbers into a list.
@@ -19,35 +19,39 @@ totalInts = 10
 
 def readData():
     intList = []
-    # FIXME1 (20 points):
+    # FIXME1-Fixed (20 points):
     # Prompt user to input file name
+    file_name = input("Please enter the file name ")
     # open the file; read each number one line at a time;
     # and store it into intList list
     # close the file
     # return the intList
-    
+    with open(file_name, 'r') as file:# Use 'with' for automatic file closing
+        for line in file:  # Read each line
+            intList.append(int(line.strip()))  # Convert line to int and add to list
     return intList
 
 
 def sortListInAscendingOrder(lstInts):
-    # FIXME2
+    # FIXME2-Fixed
     # sort lstInts list in ascending order
-    pass
+    return lstInts.sort()
+    
 
 
 def sortListInDescendingOrder(lstInts):
-    # FIXME3
+    # FIXME3-Fixed
     # sort lstInts in descending order
-    pass
+    return lstInts.sort(reverse=True)
+    
 
 
 def printList(printFile, lstInts):
     for i in lstInts:
-        # FIXME4
+        # FIXME4-Fixed
         # write each value one line at a time to file
         # handled by printFile object.
-        pass
-    printFile.write('\n')
+        printFile.write(f'{i}\n')
 
 
 def main():
@@ -62,21 +66,28 @@ def main():
     printFile.write("Numbers sorted in ascending order:\n")
     printList(printFile, integers)
 
-    # FIXME5
+    # FIXME5-Fixed
     # Call sortListInDescendingOrder function
+    sortListInDescendingOrder(integers)
 
-    # FIXME6
+    # FIXME6-Fixed
     # Write the sorted list in descending order to the output file
+    printFile.write("Numbers sorted in descending order:\n")
+    printList(printFile, integers)
 
-    # FIXME7
+    # FIXME7-Fixed
     # Print the largest number to the output file
+    printFile.write(f' The largest number is {max(integers)}\n')
 
-    # FIXME8
+    # FIXME8-Fixed
     # Print the smallest number to the output file
+    printFile.write(f' The smallest number is {min(integers)}\n')
 
     printFile.close()
     print('Done executing the program! Check the output file for results.')
 
 
-# FIXME9
+# FIXME9-Fixed
 # Call main function if this module is run as the main module
+if __name__ == "__main__":
+    main()
