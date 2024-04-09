@@ -156,13 +156,13 @@
 
 | Name | Value |
 |:--- |:--- |
-| Name | 
-| Description |
-| Due Date |
-| Status | Unfinsihed |
-| Location | 
-| Self Grade |
-| Notes |
+| Name | Fileio2.py |
+| Description | This program ic centered around another external file, this time figuring out how to read in a file, find the words with the highest frequency, and then display them to the user |
+| Due Date | 4/18/2024 |
+| Status | Finished |
+| Location | https://github.com/carsonsw09/CS0-cswhite2/tree/main/LabAssignments/Filio2 |
+| Self Grade | 100/100 |
+| Notes | All the fix me's are completed and the code runs efficently. There is photo evidence of the output as well in the folder |
 
 ### Lab10
 
