@@ -172,9 +172,9 @@
 | Description | This program brings together everything that we have learned this semester and builds up a circle class |
 | Due Date | 5/2/2024 |
 | Status | Finished |
-| Location | 
-| Self Grade |
-| Notes |
+| Location | https://github.com/carsonsw09/CS0-cswhite2/tree/main/LabAssignments/OOP |
+| Self Grade | 100/100 |
+| Notes | All the fix me's are completed and the code runs efficently. There is photo evidence of the output as well in the folder. Thanks for a great semester professor |
 
 ### Lab12
 
