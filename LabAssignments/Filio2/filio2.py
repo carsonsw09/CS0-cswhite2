@@ -66,18 +66,19 @@ def reverseHistogramList(histDict):
     # Sort the list reverseList in reverse order
     reverseList.sort(reverse=True)
     return reverseList
+    
 
 
 def main():
     histogram = readText()
-    # FIXME7 - Comment the following statement out when done
-    print(histogram)  # see the output to understand what's going on so far
+    # FIXME7-Fixed - Comment the following statement out when done
+    ##print(histogram)  # see the output to understand what's going on so far
 
     aList = reverseHistogramList(histogram)
-    # FIXME8 – print top 10 words with highest frequencies stored in aList
+    # FIXME8- Fixed – print top 10 words with highest frequencies stored in aList
     print(" The top 10 words with the highest frequencies stored in the a list are,  ")
     for freq in aList[:10]:
-        print(f"Word")
+        print(f"Word: {freq[1]} ")
 
 
 if __name__ == "__main__":
