@@ -168,10 +168,10 @@
 
 | Name | Value |
 |:--- |:--- |
-| Name | 
-| Description |
-| Due Date |
-| Status | Unfinsihed |
+| Name | OOP.py |
+| Description | This program brings together everything that we have learned this semester and builds up a circle class |
+| Due Date | 5/2/2024 |
+| Status | Finished |
 | Location | 
 | Self Grade |
 | Notes |
